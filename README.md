@@ -7,4 +7,4 @@ The player selects one option, and the computer randomly chooses one. The winner
 
 ## 🚀 Live Demo
 
- https://github.com/sahilya108/stone-paper-scissor-Game.git
+ https://github.com/sahilya108/stone-paper-scissor-Game
