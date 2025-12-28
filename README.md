@@ -1,4 +1,5 @@
 
 ##  Live Demo
 
- https://github.io/sahilya108/stone-paper-scissor-Game/
+ https://sahilya108.github.io/stone-paper-scissor-Game/
+
